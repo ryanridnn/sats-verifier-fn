@@ -1,0 +1,1112 @@
+[
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No link to verification",
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "6722ff3e5321c23bc79096aa",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb12c9fb356a087feb9d",
+      "workAreaTitle": "Casserole Assembly",
+      "departmentTitle": "SICC 1",
+      "title": "EY"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672302b75321c23bc7911f7c",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb1d56d077c2a2f9fee7",
+      "workAreaTitle": "Japanese Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "672307765321c23bc7915d57",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb2ec9fb356a087fec16",
+      "workAreaTitle": "Pantry",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "672307955321c23bc7915f6f",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb70c9fb356a087fec62",
+      "workAreaTitle": "Halal",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "672308be79e3059bb3f12f02",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb3956d077c2a2f9ff77",
+      "workAreaTitle": "Pastry",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "672308dc5321c23bc79182a3",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb3ec9fb356a087fec1e",
+      "workAreaTitle": "Soup",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "672308fa79e3059bb3f1308f",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb7856d077c2a2f9ffed",
+      "workAreaTitle": "Lounge",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67230a185321c23bc7918e01",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb4e56d077c2a2f9ffa3",
+      "workAreaTitle": "Casserole Assembly PCL & JCL",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67230ce85321c23bc791abd4",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb55c9fb356a087fec50",
+      "workAreaTitle": "Casserole Assembly EYCL",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67230e075321c23bc791b50d",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbb256d077c2a2fa00af",
+      "workAreaTitle": "Crew",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No operation title",
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "67230e2479e3059bb3f16436",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbfc56d077c2a2fa0110",
+      "workAreaTitle": "Sandwich",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No operation title",
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "67230eec5321c23bc791ca7a",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcc2756d077c2a2fa01c5",
+      "workAreaTitle": "Soup Dishes",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67230fa379e3059bb3f18374",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbc256d077c2a2fa00b7",
+      "workAreaTitle": "Casserole Assembly EYCL",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672310105321c23bc791e130",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcc07c9fb356a087fed7e",
+      "workAreaTitle": "Casserole Assembly PCL & JCL",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "6723102d79e3059bb3f18e81",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbd3c9fb356a087fed40",
+      "workAreaTitle": "Japanese Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672310695321c23bc791e21c",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbdbc9fb356a087fed62",
+      "workAreaTitle": "Malay Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "6723108679e3059bb3f19029",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcc13c9fb356a087fee7f",
+      "workAreaTitle": "Indian Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672310c179e3059bb3f191ca",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbf1c9fb356a087fed76",
+      "workAreaTitle": "Lounge",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672310e45321c23bc791e880",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcc1e56d077c2a2fa01bd",
+      "workAreaTitle": "Casserole Assembly SPML",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672ae958b65f41e081653bf1",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "SPML EY - Economy Class"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672ae99a962cab6cb6e09aec",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "SPML FCL & BC"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672ae9ccb65f41e08165481b",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "FCL - First Class"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672ae9e6962cab6cb6e0afe9",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "PEY"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aea02962cab6cb6e0b558",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Sandwich"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aea26962cab6cb6e0bc63",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Sing - KL - Hord"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aea3fb65f41e0816562a8",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Fruit Salad - BC"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aea78b65f41e0816567e1",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "BC - Business Class Hord"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aeaa2962cab6cb6e0c8e3",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "EY 1 - Economy Class"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aeaba962cab6cb6e0cbfd",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "EY 2 - Economy Class"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aead0b65f41e081656f3b",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Cheese - Business Class"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672aeae9b65f41e081656fc2",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Crew Meal"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No link to verification",
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "672b150fb65f41e081678ac4",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb12c9fb356a087feb9d",
+      "workAreaTitle": "Casserole Assembly",
+      "departmentTitle": "SICC 1",
+      "title": "NB"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c4022dc580c5dff80a275",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Cheese | Canape"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c4049dc580c5dff80a2f7",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Sandwich EY"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c406e979daf6b5a8cbc0f",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Sandwich BC | FC"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c4097dc580c5dff80a36c",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Sandwich SPML"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c40b2dc580c5dff80a41b",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "SPML"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c40c9dc580c5dff80a482",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Halal"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c40e9979daf6b5a8cbfd3",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "SFI"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672c410adc580c5dff80a6d4",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "EY / PEY"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672db80926ebfaf000fee59c",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "SPML Sandwiches"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "672db82226ebfaf000fee794",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "SPML Fruit"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No operation title",
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "673304dccdfb7195d64db2c7",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "6733049262951d847db8a6bc",
+      "workAreaTitle": "Cold Kitchen V2",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No operation title",
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "6733050762951d847db8ad1f",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "6733049d62951d847db8a77f",
+      "workAreaTitle": "Pastry Kitchen V2",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "67330534101e0d5f021ce109",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "6733048062951d847db8a5c7",
+      "workAreaTitle": "Casserole Assembly V2",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "6733055762951d847db8b009",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "6733047862951d847db8a4e0",
+      "workAreaTitle": "Cold Kitchen V2",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "673da1be3179edc7ed4f60dd",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "672b209be5a8be8f406824ff",
+      "workAreaTitle": "Casserole EY",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "673da1ff3179edc7ed4f618f",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "672b20aae5a8be8f40682570",
+      "workAreaTitle": "Casserole NB (EY)",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "fatal",
+      "messages": [
+        "No classes saved"
+      ]
+    },
+    "details": {
+      "_id": "673da25924b5839f213bdf50",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "672b227c979daf6b5a80fd11",
+      "workAreaTitle": "Casserole BC",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "673da27f24b5839f213bdf83",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb6756d077c2a2f9ffac",
+      "workAreaTitle": "Casserole SPML",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "673da2c524b5839f213be0b6",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "66efcb27c9fb356a087febad",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing (other)"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "673da47424b5839f213be918",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbadc9fb356a087fecd7",
+      "workAreaTitle": "Casserole Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "673da4ce24b5839f213beb86",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing (other)"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "673da5a63179edc7ed4f875d",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbe9c9fb356a087fed6e",
+      "workAreaTitle": "Pastry",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "674445971cfd90323424350c",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "6744457e1cfd9032342433b8",
+      "workAreaTitle": "Casserole Assembly PEY",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67444784285375c35d0d545a",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "67444769285375c35d0d5424",
+      "workAreaTitle": "Casserole Assembly SPML",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "6744489e285375c35d0d63e1",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "67444893285375c35d0d63c2",
+      "workAreaTitle": "Cold Kitchen Pantry",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67444bbb285375c35d0d9dbd",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "67444bab1cfd903234248f7e",
+      "workAreaTitle": "1st Class P2PK Soup",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67444c6b1cfd903234249452",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "67444c31285375c35d0da077",
+      "workAreaTitle": "Halal",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67444cba285375c35d0da4f1",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "67444cb0285375c35d0da4a1",
+      "workAreaTitle": "Cold Kitchen Sandwich",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67444cec1cfd903234249646",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "67444ce12fe4a01e7fa40657",
+      "workAreaTitle": "Malay Kitchen Lounge C2+",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "67444d1a2fe4a01e7fa408a5",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "67444d0a1cfd9032342497cc",
+      "workAreaTitle": "Malay Kitchen Satay",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "6745581583cccf8b07160446",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "67455804f417a4cadc041e20",
+      "workAreaTitle": "Casserole Assembly",
+      "departmentTitle": "SICC 2",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "674585b99f53d2d1a734c2cc",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fa6bbed8550d38d1ad22",
+      "workAreaId": "674585a79f53d2d1a734c213",
+      "workAreaTitle": "Pastry",
+      "departmentTitle": "SICC 1",
+      "title": "Dishing"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "675165713b7ad63801e72497",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "BC"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "675171d53b7ad63801e7a456",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "Crew Meal"
+    }
+  },
+  {
+    "result": {
+      "overall": "good",
+      "messages": []
+    },
+    "details": {
+      "_id": "6751728927cc64af02930b20",
+      "networkId": "66e9fa0cbed8550d38d1acbf",
+      "siteId": "66e9fa2ec6047141a8af7840",
+      "departmentId": "66e9fb90c6047141a8af7f0f",
+      "workAreaId": "66efcbbbc9fb356a087fece0",
+      "workAreaTitle": "Cold Kitchen",
+      "departmentTitle": "SICC 2",
+      "title": "FC"
+    }
+  }
+]
