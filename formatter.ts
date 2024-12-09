@@ -1,4 +1,5 @@
-import data from "./index.json";
+// RUN FOR FORMATTING THE DATABASE RESULT ONLY
+import data from "./db.json";
 
 const getId = (a: { $oid: string }) => {
   return a.$oid;

@@ -1,3 +1,4 @@
+// MAIN FUNCTION FOR VERIFYING THE OPERATIONS
 import axios from "axios";
 import data from "./formatted.json";
 
@@ -141,4 +142,4 @@ const operations = await Promise.all(
   }),
 );
 
-Bun.write("./operations.json", JSON.stringify(operations, null, 2));
+Bun.write("./verified.json", JSON.stringify(operations, null, 2));
